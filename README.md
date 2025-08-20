@@ -2,3 +2,5 @@
 A game developed in Python, specifically for a user to play in... their terminal. 
 Created in an hour, on a random Saturday night in July.
 *100% human coded, 0% vibe coded.*
+
+Oh and also, its actually just a vending machine game. I kinda forgot about the setting, until I looked at the file names.
